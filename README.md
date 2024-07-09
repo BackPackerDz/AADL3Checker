@@ -1,5 +1,9 @@
 # AADL3 Website Availability Checker App
 
+<div align="center">
+    <img src="https://github.com/BackPackerDz/AADL3Checker/blob/main/AADL_logo.svg" alt="AADL3 Checker" style="width: 300px;"/>
+</div>
+
 ## Description
 
 An Android app to check the availability of the AADL3 website [aadl3inscription2024.dz](aadl3inscription2024.dz), ensuring users can register as soon as the site is online. It performs regular checks and sends notifications when the site is accessible.
