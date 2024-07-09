@@ -11,7 +11,7 @@ An Android app to check the availability of the AADL3 website, ensuring users ca
 
 ## Download
 
-[Download the APK](https://github.com/YourUsername/AADL3WebsiteChecker/releases)
+[Download the APK](https://github.com/BackPackerDz/AADL3Checker/raw/main/AADL3Checker.apk)
 
 ## Usage
 
