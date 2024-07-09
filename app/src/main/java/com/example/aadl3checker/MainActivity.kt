@@ -125,7 +125,7 @@ fun MainScreen(isServiceRunning: Boolean, onStartService: () -> Unit, onStopServ
             Text(
                 text = stringResource(R.string.visit_github),
                 modifier = Modifier
-                    .clickable { uriHandler.openUri("https://github.com/YourUsername/YourRepository") }
+                    .clickable { uriHandler.openUri("https://github.com/BackPackerDz/AADL3Checker") }
                     .padding(16.dp),
                 color = Color.Blue
             )
