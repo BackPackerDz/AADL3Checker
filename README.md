@@ -2,7 +2,7 @@
 
 ## Description
 
-An Android app to check the availability of the AADL3 website, ensuring users can register as soon as the site is online. It performs regular checks and sends notifications when the site is accessible.
+An Android app to check the availability of the AADL3 website (aadl3inscription2024.dz), ensuring users can register as soon as the site is online. It performs regular checks and sends notifications when the site is accessible.
 
 ## Features
 
