@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vérificateur AADL3</string>
+    <string name="checking_aadl3_website_availability">Vérification de la disponibilité du site web AADL3…</string>
+    <string name="aadl3_website_is_not_available_trying_in_seconds">Le site web AADL3 n\'est pas disponible. Nouvelle tentative dans %1$s secondes.</string>
+    <string name="aadl3_website_checking">Vérification du site web AADL3</string>
+    <string name="aadl3_website_available_go_register">Le site web AADL3 est disponible. Inscrivez-vous maintenant!</string>
+    <string name="stop_checking_aadl3_website">Arrêter la vérification du site web AADL3</string>
+    <string name="start_checking_aadl3_website">Commencer la vérification du site web AADL3</string>
+    <string name="by_clicking_on_the_start_button_the_app_will_check_the_availability_of_the_aadl3_website_every_minute_and_show_a_notification_if_the_website_is_available">En cliquant sur le bouton de démarrage, l\'application vérifiera la disponibilité du site web AADL3 chaque minute et affichera une notification si le site est disponible.</string>
+    <string name="visit_github">Visiter GitHub</string>
+</resources>

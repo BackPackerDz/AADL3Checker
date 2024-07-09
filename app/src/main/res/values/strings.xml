@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AADL3Checker</string>
+    <string name="checking_aadl3_website_availability">Checking AADL3 website availability…</string>
+    <string name="aadl3_website_is_not_available_trying_in_seconds">AADL3 website is not available. Trying in %1$s seconds.</string>
+    <string name="aadl3_website_checking">AADL3 website checking</string>
+    <string name="aadl3_website_available_go_register">AADL3 website available. Go register!</string>
+    <string name="stop_checking_aadl3_website">Stop checking AADL3 website</string>
+    <string name="start_checking_aadl3_website">Start checking AADL3 website</string>
+    <string name="by_clicking_on_the_start_button_the_app_will_check_the_availability_of_the_aadl3_website_every_minute_and_show_a_notification_if_the_website_is_available">By clicking on the start button the app will check the availability of the AADL3 website every minute and show a notification if the website is available.</string>
+    <string name="visit_github">Visit GitHub</string>
+</resources>

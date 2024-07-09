@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AADL3Checker</string>
+    <string name="checking_aadl3_website_availability">جار التحقق من توفر موقع AADL3…</string>
+    <string name="aadl3_website_is_not_available_trying_in_seconds">موقع AADL3 غير متوفر. يعاود المحاولة بعد %1$s ثواني.</string>
+    <string name="aadl3_website_checking">جار فحص موقع AADL3</string>
+    <string name="aadl3_website_available_go_register">موقع AADL3 متوفر. قم بالتسجيل الآن!</string>
+    <string name="stop_checking_aadl3_website">إيقاف التحقق من موقع AADL3</string>
+    <string name="start_checking_aadl3_website">بدء التحقق من موقع AADL3</string>
+    <string name="by_clicking_on_the_start_button_the_app_will_check_the_availability_of_the_aadl3_website_every_minute_and_show_a_notification_if_the_website_is_available">بالنقر على زر البدء، سيقوم التطبيق بفحص توفر موقع AADL3 كل دقيقة ويعرض إشعاراً إذا كان الموقع متوفر.</string>
+    <string name="visit_github">زيارة GitHub</string>
+</resources>
